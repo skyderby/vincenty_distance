@@ -21,7 +21,7 @@ gem 'vincenty_distance'
 
 or
 
-        $ gem install vincenty_distance
+    $ gem install vincenty_distance
 
 and 
 
