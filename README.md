@@ -45,5 +45,8 @@ distance = Vincenty.distance_between_points(boston, newyork)
 
 ## References
 
-![Wikipedia: Vincenty's formulae](https://en.wikipedia.org/wiki/Vincenty's_formulae)
-![Wikipedia: World Geodetic System](https://en.wikipedia.org/wiki/World_Geodetic_System)
+[Wikipedia: Vincenty's formulae](https://en.wikipedia.org/wiki/Vincenty's_formulae)
+
+[Wikipedia: World Geodetic System](https://en.wikipedia.org/wiki/World_Geodetic_System)
+
+[Python implementation](https://github.com/maurycyp/vincenty)
